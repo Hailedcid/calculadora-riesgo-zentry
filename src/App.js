@@ -947,7 +947,7 @@ export default function App() {
             <>
               <div className="header">
                 <div className="headline">
-                  Descubre<em>con Zentry</em> tu perfil de riesgo.
+                  Descubre<em> con Zentry</em> tu perfil de riesgo.
                 </div>
                 <div className="tagline">
                   // 8 preguntas · resultado inmediato · sin registro previo
